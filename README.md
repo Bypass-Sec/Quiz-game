@@ -1,5 +1,5 @@
 
-# 🖥️ Computer Quiz Game
+# 🖥️ Computer Quiz Game (Incomplete)
 
 A simple interactive **computer knowledge quiz** built in Python. Test your understanding of hardware and computer components!
 
